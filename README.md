@@ -1,10 +1,10 @@
 # mlbscraper
 
 # Installation:
-import sqlite3
-import requests
-from bs4 import BeautifulSoup
-from datetime import date, datetime
+`import sqlite3
+`import requests
+`from bs4 import BeautifulSoup
+`from datetime import date, datetime
 
 # What is does:
 This python file allow you to do 2 things:
